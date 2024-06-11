@@ -1,0 +1,6 @@
+[submodule "ms-pedidos"]
+	path = ms-pedidos
+	url = https://github.com/fabiomendoncaerpedev/ms-pedidos.git
+[submodule "ms-pagamentos"]
+	path = ms-pagamentos
+	url = https://github.com/fabiomendoncaerpedev/ms-pagamentos.git

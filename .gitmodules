@@ -4,3 +4,6 @@
 [submodule "ms-pagamentos"]
 	path = ms-pagamentos
 	url = https://github.com/fabiomendoncaerpedev/ms-pagamentos.git
+[submodule "ms-gateway"]
+	path = ms-gateway
+	url = https://github.com/fabiomendoncaerpedev/ms-gateway.git
